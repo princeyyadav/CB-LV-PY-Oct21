@@ -1,0 +1,6 @@
+S.no., Name, marks, dob
+1, Jaydip, 70, 20/nov/1999
+2, Rajan, 80, 20/apr/1995
+3, Harshul, 40, 18/may/2000
+4, Ashish, 60, 20/apr/1995
+5, Dipsan, 70, 18/may/2000

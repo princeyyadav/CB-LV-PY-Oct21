@@ -1,0 +1,5 @@
+print("hello world")
+print("this is day 1")
+a = 30
+b = 40
+print("The sum of a and b is", a+b)
